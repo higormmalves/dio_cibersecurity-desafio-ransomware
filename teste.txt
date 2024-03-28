@@ -1,3 +1,1 @@
 Este arquivo foi descriptografado e agora eh legivel!!!
-
-Projeto proposto pelo curso de Cybersecurity Specialist da DIO, realizado por Higor Alves, onde foi utilizada a bibliteca pyaes em python  para encriptografar e descriptografar um arquivo.
